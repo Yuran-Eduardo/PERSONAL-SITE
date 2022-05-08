@@ -1,1 +1,1 @@
-I'm learn how to use git and github
+This is my personal web site
